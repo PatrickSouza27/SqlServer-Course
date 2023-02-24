@@ -1,4 +1,4 @@
-Curso Fundamentos do SQL Server / Carreira Desenvolvedor Backend .NET
+Curso Fundamentos do SQL Server / Carreira Desenvolvedor Backend .NET <img src="https://media.giphy.com/media/yN7xIm44NqCYq29Wly/giphy.gif" width="60">
 
 ## Instalação
 Para realização do curso Foi utilizado o Docker e SQL Server 2019 / Azure Data Studio.
@@ -41,7 +41,7 @@ Para realização do curso Foi utilizado o Docker e SQL Server 2019 / Azure Data
  * Variáveis
  * Backup e Restore
  
- ## Certificado
+ ## Certificate <img src="https://media.giphy.com/media/sTZFHxrtbhiHWod2R7/giphy.gif" width="30">
  
  ![Balta io-SQLServer-eCertificate](https://user-images.githubusercontent.com/77933748/221246670-77d9eeef-7896-49a8-ad5e-6bb063be97ba.png)
 
