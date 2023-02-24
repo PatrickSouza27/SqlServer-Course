@@ -8,7 +8,7 @@ Para realização do curso Foi utilizado o Docker e SQL Server 2019 / Azure Data
 * [Download do Azure Data Studio](https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 
 ## Documentação Microsoft SQL Server
-* Tipos de dados no SQL Server ([Documentação oficial](https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15))
+* [Documentação oficial](https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15)
 
 ## Itens Aprendido ao Decorrer do Curso
  * Ferramentas
