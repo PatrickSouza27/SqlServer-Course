@@ -9,3 +9,34 @@ Para realização do curso Foi utilizado o Docker e SQL Server 2019 / Azure Data
 
 ## Documentação Microsoft SQL Server
 * Tipos de dados no SQL Server ([Documentação oficial](https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15))
+
+## Itens Aprendido ao Decorrer do Curso
+ * Ferramentas
+ * Create Database
+ * Create Table
+ * Alter/Drop Table
+ * Constraints - Not Null
+ * Constraints - Unique
+ * Primary Key
+ * Composite Key
+ * Índices
+ * Identity
+ * Insert
+ * Select
+ * Queries
+ * Order By
+ * Update
+ * Delete
+ * MIN, MAX, Count
+ * Like
+ * In, Between
+ * Alias
+ * Joins
+ * Left Join
+ * Union
+ * Group By
+ * Having
+ * Views
+ * Stored Procedures
+ * Variáveis
+ * Backup e Restore
