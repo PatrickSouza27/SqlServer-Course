@@ -40,3 +40,8 @@ Para realização do curso Foi utilizado o Docker e SQL Server 2019 / Azure Data
  * Stored Procedures
  * Variáveis
  * Backup e Restore
+ 
+ ## Certificado
+ 
+ ![Balta io-SQLServer-eCertificate](https://user-images.githubusercontent.com/77933748/221246670-77d9eeef-7896-49a8-ad5e-6bb063be97ba.png)
+
