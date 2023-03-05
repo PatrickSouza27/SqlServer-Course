@@ -9,7 +9,7 @@ Para realização do curso Foi utilizado o Docker e SQL Server 2019 / Azure Data
 
 ## Documentação Microsoft SQL Server
 * [Documentação oficial](https://docs.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15)
-<
+
 ## Itens Aprendido ao Decorrer do Curso
  * Ferramentas
  * Create Database
